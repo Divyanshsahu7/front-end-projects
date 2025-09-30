@@ -1,0 +1,12 @@
+.selling-phone
+{
+    background-image: url('../images/best-selling-phone.jpg');
+    background-size: cover;
+}
+.mybg
+{
+background-color: rgba(245, 245, 247, 0.841);
+}
+.myfont{
+    font-size: 12px;
+}
